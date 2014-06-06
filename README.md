@@ -1,4 +1,4 @@
-magnum-bootstrap-pagination
+Bootstrap Pagination
 ===========================
 
 This is a simple function that replaces the default WP style pagination with <a href="http://getbootstrap.com/components/#pagination">Bootstrap 3 pagination</a> styling in your theme templates. The below instrutions are reflecting the use of <a href="http://roots.io/starter-theme/">Roots.io Starter</a> theme. You may have to adjust things slightly differently in your theme.
