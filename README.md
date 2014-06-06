@@ -6,7 +6,7 @@ This is a simple function that replaces the default WP style pagination with <a 
 <h3>Requirements</h3>
 <ul>
   <li>Bootstrap 3 (and css)</li>
-  <li>WP Theme</li>
+  <li>WP Theme (preferrable roots.io)</li>
 </ul>
 
 <h3>Instructions</h3>
