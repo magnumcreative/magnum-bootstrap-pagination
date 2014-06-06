@@ -30,9 +30,6 @@ Replace any instance of pagination found in your WP templates with the function 
 With the below
 ```
 <?php if ($wp_query->max_num_pages > 1) : ?>
-  <?php
-    // custom function to output Bootstrap pagination, found in custom.php
-    page_navi();
-  ?>
+  <?php page_navi(); ?>
 <?php endif; ?>
 ```
