@@ -1,8 +1,19 @@
 magnum-bootstrap-pagination
 ===========================
 
-Changes WP default pagination to Bootstrap 3 style
+This is a simple function that replaces the default WP style pagination with <a href="http://getbootstrap.com/components/#pagination">Bootstrap 3 pagination</a> styling.
 
+<h3>Requirements</h3>
+<ul>
+  <li>Bootstrap 3 (and css)</li>
+  <li>WP Theme</li>
+</ul>
+
+<h3>Instructions</h3>
+<ul>
+  <li>Install plugin</li>
+  <li>Edit your theme template with the below changes.</li>
+</ul>
 
 <h3>Theme changes</h3>
 Replace any instance of pagination found in your WP templates with the function *page_navi();*.
