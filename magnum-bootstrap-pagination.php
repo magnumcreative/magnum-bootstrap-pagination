@@ -51,7 +51,7 @@ function page_navi($before = '', $after = '') {
 
   echo $before.'<ul class="pagination">'."";
   if ($paged > 1) {
-    $first_page_text = "<span class='glyphicon glyphicon-home'></span>";
+    $first_page_text = "News";
     echo '<li class="prev"><a href="'.get_pagenum_link().'" title="First">'.$first_page_text.'</a></li>';
   }
 
